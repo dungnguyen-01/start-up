@@ -1,1 +1,1 @@
-console.log('product mode was create');
+console.log('product mode was created roght!');
